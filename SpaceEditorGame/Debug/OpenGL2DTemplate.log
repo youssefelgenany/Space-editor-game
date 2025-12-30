@@ -1,0 +1,5 @@
+﻿  Space Editor game.cpp
+C:\Users\Youssef Khaled\Documents\GitHub\Space-editor-game\Space Editor game.cpp(279,39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Youssef Khaled\Documents\GitHub\Space-editor-game\Space Editor game.cpp(280,39): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Space Editor game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> C:\Users\Youssef Khaled\Documents\GitHub\Space-editor-game\Debug\SpaceEditorGame.exe
