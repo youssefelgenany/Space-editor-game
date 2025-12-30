@@ -142,14 +142,20 @@ This project intentionally uses **legacy OpenGL (immediate mode)** to demonstrat
 
 ---
 
-## Compilation and Execution
+## How to Run the Project (Visual Studio)
 
-### Requirements
-- C++ compiler (GCC, Clang, or MSVC)
-- OpenGL
-- GLUT or FreeGLUT
+This project is provided as a **pre-configured Visual Studio solution**.
 
-### Example (Windows – FreeGLUT)
+### Steps to Execute
 
-```bash
-g++ main.cpp -lfreeglut -lopengl32 -o SpaceEditor
+1. Open the file: OpenGL3DTemplate.sln
+2. Visual Studio will load the solution with all required settings.
+3. Make sure the build configuration is set to:
+- **Debug** or **Release**
+- **x86** (recommended for OpenGL templates)
+4. Click **Local Windows Debugger** or press: F5
+5. The game window will launch automatically.
+
+No manual compilation, linking, or library configuration is required.
+
+---
