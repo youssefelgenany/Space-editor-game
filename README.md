@@ -151,8 +151,6 @@ This project is provided as a **pre-configured Visual Studio solution**.
 1. Open the file: OpenGL3DTemplate.sln
 2. Visual Studio will load the solution with all required settings.
 3. Make sure the build configuration is set to:
-- **Debug** or **Release**
-- **x86** (recommended for OpenGL templates)
 4. Click **Local Windows Debugger** or press: F5
 5. The game window will launch automatically.
 
