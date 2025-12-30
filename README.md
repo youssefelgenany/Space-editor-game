@@ -149,7 +149,3 @@ This project intentionally uses **legacy OpenGL (immediate mode)** to demonstrat
 - OpenGL
 - GLUT or FreeGLUT
 
-### Example (Windows – FreeGLUT)
-
-```bash
-g++ main.cpp -lfreeglut -lopengl32 -o SpaceEditor
